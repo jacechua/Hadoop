@@ -1,2 +1,2 @@
 # HadoopSys
-Material to study and train on to become a full fledged Hadoop Systems Engineer.
+Material to study for Hadoop Systems Engineering at Amazon.
