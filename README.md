@@ -1,2 +1,2 @@
-# HadoopSys
-Material to study for Hadoop Systems Engineering at Amazon.
+# HSE
+Hadoop Systems Engineering at Amazon.
