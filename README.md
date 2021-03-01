@@ -1,2 +1,2 @@
 # Hadoop
-Hadoop Systems Engineering at Amazon.
+Hadoop Systems Engineering
