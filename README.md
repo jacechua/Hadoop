@@ -1,2 +1,2 @@
 # hadoop
-Foundations and material knowledge prerequisite for Hadoop Systems Engineering at Amazon. 
+Foundational and material knowledge prerequisite for Hadoop Systems Engineering at Amazon.
