@@ -1,2 +1,2 @@
 # Hadoop
-Hadoop Systems Engineering
+Foundational knowledge and material to study for Hadoop Systems Engineering at Amazon. 
