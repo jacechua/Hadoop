@@ -1,2 +1,2 @@
 # Hadoop-Systems-Engineer
-Foundational and material knowledge prerequisite for Hadoop Systems Engineering at Amazon.
+Material knowledge requisite for Hadoop Systems Engineering. 
