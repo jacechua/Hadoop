@@ -1,2 +1,2 @@
 # Hadoop-Systems-Engineer
-Material knowledge required for Hadoop Systems Engineering at Amazon. 
+Material knowledge acquired for Hadoop Systems Engineering at Amazon.
